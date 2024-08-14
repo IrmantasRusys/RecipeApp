@@ -1,8 +1,5 @@
 /**
  * Mūsų projekte naudojamas API receptams gauti iš edamam.com
- * edamam.com -> Recipe Search API -> Pasirenki Free planą ir spaudi "Get Started" -> Prisiregistruoji -> Accounts -> Dashboard -> Applications ->
- * Recipe Search API -> View -> Application Keys -> susigeneruoji naujus ir prisidedi Application ID ir Application KEYS.
- *
  * Mokamose versijose yra daugiau duomenų (gaminimo procesas)
  */
 
